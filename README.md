@@ -16,6 +16,9 @@ With GIFLoad you can easily do that!
 
 Drag and drop everything to the root of your web server. Delete the optional upload script if it is not needed. set `sv_loadingurl` to `http://yourwebsite.com/loadingscreen` 
 
+If you want users to be able to upload stuff, simply use the `randomimg.html` file. This is simply provided as an example, 
+use it if you want, but I'm not responsible for anything that happens with it.
+
 # Configure
 
 Upload your logo to `bg/logo.png`.
