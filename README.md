@@ -31,3 +31,4 @@ Upload your images to `images/`. they can be `.png`, `.jpg` and `.gif`
 Live demo: https://deadvcr.com/GIFLoad/loadingscreen/
 ![screenshot](https://i.imgur.com/z5GCUj8.png "Screenshot")
  
+
